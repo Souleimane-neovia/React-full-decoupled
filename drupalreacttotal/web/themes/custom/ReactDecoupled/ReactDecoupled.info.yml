@@ -1,0 +1,10 @@
+name: React -- Découplage total
+type: theme
+description: 'Projet école - Expérimentation Découplage total React / Drupal. '
+package: ReactDecoupled
+core: 8.x
+base theme: classy
+
+libraries:
+  # - ReactDecoupled/react
+  # - ReactDecoupled/react-app
